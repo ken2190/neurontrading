@@ -1,6 +1,7 @@
 # neurontrading
 NeuronTrading
 https://medium.com/@neurontrading/cryptocurrencies-trading-based-on-1m-timeframe-using-ml-and-getting-more-than-1-of-profit-daily-c84ef3269b3a
+
 Cryptocurrencies trading based on 1m timeframe using ML and getting more than 1% of profit daily
 The title may sound dream-like to you, though the findings surprised our team too. But first things first!
 
